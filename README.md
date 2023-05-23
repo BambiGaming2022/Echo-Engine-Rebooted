@@ -1,16 +1,15 @@
-### DEPRECATION NOTICE
-### This engine has since been deprecated and is no longer being maintained.
-### Please stop using the engine in favor of a more better engine. 👍
+### NOTICE:
+### This Engine Is Getting Remake
+### Addon is getting reboot too 👍
 
-## Friday Night Funkin' - Echo Engine
+## Friday Night Funkin' - Echo Engine Rebooted
 
 ![Untitled58_20221223213728](https://user-images.githubusercontent.com/113801267/209418486-a3782277-29f5-49d6-8396-bde34694e8d1.png)
 
-A little Psych Engine Addon
+A Rebooted Psych Engine Addon
 
-### THIS ISN'T AN ENTIRE MOD/FORK OF PSYCH ENGINE, THIS IS MORE OF AN ADDON.
+### THIS IS ENTIRE FORK OF ECHO ENGINE, THIS IS MORE OF REBOOTED ADDONS
 
-[Discord link](https://discord.gg/h7zvcMe2) `no i'm not maintaining this`
 
 ## Installation
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff. (I suggest 5.0.0 because thats what i use)
