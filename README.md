@@ -1,37 +1,5 @@
-### NOTICE:
-### This Engine Is Getting Remake
-### Addon is getting reboot too 👍
-
-## Friday Night Funkin' - Echo Engine Rebooted
-
-![Untitled58_20221223213728](https://user-images.githubusercontent.com/113801267/209418486-a3782277-29f5-49d6-8396-bde34694e8d1.png)
-
-A Rebooted Psych Engine Addon
-
-### THIS IS ENTIRE FORK OF ECHO ENGINE, THIS IS MORE OF REBOOTED ADDONS
-
-
-## Installation
-You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff. (I suggest 5.0.0 because thats what i use)
-
-Open up a Command Prompt/PowerShell or Terminal, type `haxelib install hmm`
-
-After it finishes, simply type `haxelib run hmm install` in order to install all the needed libraries for *Psych Engine!*
-
-If you wanna compile use `lime build windows` or open one of the bat files in the arts folder
-## Customization:
-If you wish to disable things like *Lua Scripts* or *Video Cutscenes*, you can read over to `Project.xml`
-
-Inside `Project.xml`, you will find several variables to customize Psych Engine to your liking
-
-To start you off, disabling Videos should be simple, simply Delete the line `"VIDEOS_ALLOWED"` or comment it out by wrapping the line in XML-like comments, like this `<!-- YOUR_LINE_HERE -->`
-same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, this and other customization options are all available within the `Project.xml` file
-
-## Creators
-
-* MyFnf - Main Programmer ![myfnf](https://user-images.githubusercontent.com/113801267/210158210-2bce0473-47f9-4896-944d-a74fe33ebf14.png)
-* MemeHoovy - Main Bug Fixer ![memehoovy](https://user-images.githubusercontent.com/113801267/210158222-33c4c26c-d1b0-46cc-a9bb-3dbfd92487d0.png)
-* aislanbclaudino - added features to dad battle ![Aislanbclaudino](https://user-images.githubusercontent.com/113801267/210158226-632b8036-c2a2-482b-9c88-bc2dbd0b82bf.png)
+##This Engine Is Dead
+##I changed my mind, this engine is dead
 
 
 ## Contributors
