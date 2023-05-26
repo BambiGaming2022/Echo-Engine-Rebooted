@@ -1,6 +1,9 @@
-##This Engine Is Dead
-
-*I changed my mind, this engine is dead
+## This Engine is Dead
+i changed my mind, this engine remake is dead in many years
+go use psych engine for better modding (or other modded engines)
+but now this engine is dead
+L + BOZO TROLOLOLOL (/j dont kill me)
+also i hope you have nice day *hangs up the phone*
 
 
 ## Contributors
